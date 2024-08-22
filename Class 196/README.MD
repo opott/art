@@ -1,0 +1,1 @@
+This artwork was made with Figma. It is inspired by the West Midlands Railway Class 196 train. This is just an initial design, and the final design is in the Class 196 & 197 directory.
